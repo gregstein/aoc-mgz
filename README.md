@@ -55,6 +55,24 @@ General format of the file, noting interesting parts.
         - ID
         - Position
   - Achievements[]
+      - Buildings Lost
+      - Buildings Razed
+      - Conversions
+      - Explored Percent
+      - Food Collected
+      - Gold Collected
+      - Relic Gold
+      - Relics Collected
+      - Stone Collected
+      - Total Castles
+      - Trade Gold
+      - Tribute Received
+      - Tribute Sent
+      - Units Killed
+      - Units Lost
+      - Villager High
+      - Wood Collected
+      
   - Scenario
     - Instructions
     - Victory condition
